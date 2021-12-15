@@ -1,6 +1,6 @@
 ## Contador :stopwatch:
 
-Neste projeto, iremos fazer a nossa primeira integração de um código Javascript com uma página HTML.
+Neste projeto, irei fazer uma integração básica de um código Javascript com uma página HTML.
 
 ### Métodos
 
